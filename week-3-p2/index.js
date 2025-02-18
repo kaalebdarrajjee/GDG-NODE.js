@@ -11,5 +11,5 @@ findMinMax(nums)
 run:
  =>npm update to update
  =>npm uninstall to delete from node modules and package.json
- on the terminal.
+ on the
  */
