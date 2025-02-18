@@ -8,7 +8,7 @@ function findMinMax(arr){
 const nums = [1,2,3,4,5]
 findMinMax(nums)
 /*
-run:
+run: 
  =>npm update to update
  =>npm uninstall to delete from node modules and package.json
  on the
